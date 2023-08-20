@@ -18,3 +18,5 @@ DB_PASSWORD=
 URL страницы менеджера: http://127.0.0.1:8000/manager
 Логин: manager@example.com
 Пароль: jjemnfz12
+
+Ссылка по установке JWT Token: https://jwt-auth.readthedocs.io/en/develop/laravel-installation/
